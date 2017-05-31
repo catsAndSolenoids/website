@@ -1,17 +1,32 @@
 ---
-title: Cats and Solenoids
+title: Catbot
 layout: Page
-hero: https://farm4.staticflickr.com/3949/15589950511_3675b15e59_k.jpg
+hero: /assets/nyanBg.jpg
 # hero credit: https://www.flickr.com/photos/pslee999/15589950511/
-#cta:
-#  label: About this theme
-#  link: "about"
+cta:
+  label: About this theme
+  link: "about"
 ---
 
-Welcome to Cats and Solenoids, here, we fight cat boredom with lasers!
+> "entia non sunt multiplicanda praeter necessitatem"  
+> *William of Ockham*
 
-We also teach people how to do so
+Catbot is a simple, robust, efficient tool to fight CBS (Cat Boredom Syndrome) that only require 2 servos a laser and an Arduino in its simplest form
 
+Easy to replicate and deploy, cats love it, and even tolerate that human controll THE LASER (needless to say no one controll a cat?)
+
+It is also a cool toy to learn the basics of Ardino and connect a thing to the interweb
+
+
+
+# Demos !!
+
+
+early testing by patient 0: Guu 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6NYyGC-wZKU" frameborder="0" allowfullscreen></iframe>
+
+LXJS 2014 catbot workshop (shot by Joana Job)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6tOPI7YGPjM" frameborder="0" allowfullscreen></iframe>
 
 Hi there. Before having fun with Phenomic, be sure to read the documentation :
 
