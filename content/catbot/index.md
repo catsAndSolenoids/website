@@ -6,6 +6,10 @@ hero: /assets/nyanBg.jpg
 cta:
   label: About this theme
   link: "about"
+
+test:
+  name: the test
+  link: "yarr"
 ---
 
 > "entia non sunt multiplicanda praeter necessitatem"  

@@ -4,6 +4,9 @@ import Svg from "react-svg-inline"
 
 import twitterSvg from "../icons/iconmonstr-twitter-1.svg"
 import gitHubSvg from "../icons/iconmonstr-github-1.svg"
+// import catLogo from "../icons/iconCatsNoText.svg"
+
+
 
 import styles from "./index.css"
 
@@ -11,6 +14,7 @@ const Header = (props, { metadata: { pkg } }) => (
   <header className={ styles.header }>
     <nav className={ styles.nav }>
       <div className={ styles.navPart1 }>
+        {/*<Svg svg={ catLogo } cleanup className={ styles.catLogo } />*/}
         <Link
           className={ styles.link }
           to={ "/" }
@@ -19,7 +23,7 @@ const Header = (props, { metadata: { pkg } }) => (
         </Link>
         <Link
           className={ styles.link }
-          to={ "/catbots" }
+          to={ "/catbot" }
         >
           { "Catbots" }
         </Link>

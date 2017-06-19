@@ -1,49 +1,22 @@
 ---
 title: Cats and Solenoids
 layout: Page
-hero: https://farm4.staticflickr.com/3949/15589950511_3675b15e59_k.jpg
+hero: assets/catHero.svg
+#headTitle: yo
 # hero credit: https://www.flickr.com/photos/pslee999/15589950511/
 #cta:
 #  label: About this theme
 #  link: "about"
 ---
 
-Welcome to Cats and Solenoids, here, we fight cat boredom with lasers!
+# Cats and solenoids?
 
-We also teach people how to do so
+Cats and Solenoids is the space I created to bridge the gap between the cats, internet and microcontollers.
 
+I'm working in the web for 20 years and learn to solder and hack radio even before that, so I looked at the arrival of IOT with lot on interest, so in the last years in addition to some contractor work I ran workshops, meetups, gave courses in university to share my passion for binding the web and micro controllers.
 
-Hi there. Before having fun with Phenomic, be sure to read the documentation :
+I also started contracting for IOT based jobs mainly doing installations in museums (44 synchronised raspberry pi in "musée des Confluences", web interface controlled DMX scene lighting in "musée de la Voile").
 
-* [How to setup a new project with Phenomic](https://phenomic.io/docs/setup/)
-* [Getting Started with Phenomic](https://phenomic.io/docs/getting-started/)
-* [Usage & APIs](https://phenomic.io/docs/usage/)
-* [FAQ](https://phenomic.io/docs/faq/)
+All of this is of course made with my real goal in mind, fighting CBD (Cat Boredom Disorder) by teaching as much people as possible how to build entertaining new interactive cat toys.
 
-Also take a look at
-[existing websites that use Phenomic](https://phenomic.io/showcase/),
-some projects share their source code!
-
-<!-- demo to show you that you can use "assets" folder -->
-<small>
-  Built with
-  <a href="https://facebook.github.io/react/">
-    <img alt="" src="assets/react.svg" width="16" height="16" />
-    React
-  </a>.
-</small>
-
----
-
-You may want to take a look at the [404.html](/404.html) and tweak the render.
-
-If you need to make adjustments, you can directly alter page layouts in
-``src/layouts/``;
-small things like the header, footer, buttons and so on can be changed in
-``src/components/``;
-and for colors and common CSS variables, you can modify ``postcss.config.js``.
-
-_You feel like the base theme is not enough or you just saw something wrong?_
-[Please help us make Phenomic better!](https://phenomic.io/contributing/)
-
----
+I'm also available for teaching less usefull things like connecting robots to your CI and how to make testing fun, or any web related thing (nodejs / html / css / js) even is no cats are involved
