@@ -11,12 +11,25 @@ hero: assets/catHero.svg
 
 # Cats and solenoids?
 
-Cats and Solenoids is the space I created to bridge the gap between the cats, internet and microcontollers.
+Cats and Solenoids is the space we created to bridge the gap between the cats, internet and microcontollers, and help humans having good time learning how to create cool stuffs with electronic.
 
-I'm working in the web for 20 years and learn to solder and hack radio even before that, so I looked at the arrival of IOT with lot on interest, so in the last years in addition to some contractor work I ran workshops, meetups, gave courses in university to share my passion for binding the web and micro controllers.
+All of this is of course made with our real goal in mind, fighting CBD (Cat Boredom Disorder) by teaching as much people as possible how to build entertaining new interactive cat toys.
 
-I also started contracting for IOT based jobs mainly doing installations in museums (44 synchronised raspberry pi in "musée des Confluences", web interface controlled DMX scene lighting in "musée de la Voile").
+# What can we do for you ?
 
-All of this is of course made with my real goal in mind, fighting CBD (Cat Boredom Disorder) by teaching as much people as possible how to build entertaining new interactive cat toys.
+- organise workshops/teambuiding for conferences and companies teaching the base of electronics and good practices in developpement.
+- create customised workshops where we create fun workshop to teach whatever you want your team to learn.
+- create interactive installations / customised digital signage.
+- consulting for IOT or web project.
 
-I'm also available for teaching less usefull things like connecting robots to your CI and how to make testing fun, or any web related thing (nodejs / html / css / js) even is no cats are involved
+# Who are we?
+
+## Jérome Loï
+
+Is in the web for 20 years and learn to solder and hack radio even before that, he looked at the arrival of IOT with lot on interest, so in the last years in addition to some contractor work he ran workshops, meetups, gave courses in university to share my passion for binding the web and micro controllers.
+
+He also worked on IOT based jobs mainly doing installations in museums (44 synchronised raspberry pi in "musée des Confluences", web interface controlled DMX scene lighting in "musée de la Voile").
+
+## Zhi Zhang
+
+Zhi is an interior designer that also create the designs for our various projects, paint, draw, sculpt and make anything Jerome build looks good.

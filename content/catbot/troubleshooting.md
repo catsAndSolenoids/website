@@ -1,12 +1,18 @@
 ---
 title: Troubleshooting
-date: 2016-12-25 00:10:44
-tags:
+layout: Page
+hero: /assets/catHero.svg
+# hero credit: https://www.flickr.com/photos/pslee999/15589950511/
+#cta:
+#  label: About this theme
+#  link: "about"
 ---
 
-Here we will talk about the possible problem you may encounter, and their possible solutions
+# Troubleshooting
 
-## Firmata
+Here we will see the possible problem you may encounter, and their possible solutions
+
+## How to install Firmata
 to install firmata on your  board, you can use [firmata-party][1]
 plug the arduino to your computer
 
@@ -36,4 +42,4 @@ if you can'f find solution to your issue, fill one [here][3]
 
 [1]: https://github.com/noopkat/firmata-party
 [2]: https://www.arduino.cc/en/Main/Software
-[3]: https://github.com/catsAndSolenoids/yldWorkshop/issues
+[3]: https://github.com/catbotFactory/yldWorkshop/issues

@@ -1,13 +1,13 @@
 ---
 title: Connect
 layout: post
-hero: /assets/nyanBg.jpg
+hero: /assets/catHero.svg
 ---
 
 ## Before starting
 Let's have a look at our Funduino (the Arduino clone this kit uses)
 
-![funduino details](/assets/connect/funduino01.png)
+![funduino details](/assets/connect/funduino_01.png)
 
 
 - 1 : USB connector, allow serial connection and power up the board for small project
@@ -23,7 +23,7 @@ Unplug the funduino from usb and / or power before connecting anything.
 Then check that the voltage switch (2) is set to 5V (servomotors need 5V)
 
 ## Catbot
-![Catbot wiring](/assets/connect/funduino02.png)
+![Catbot wiring](/assets/connect/funduino_02.png)
 
 ### laser
 the laser has 2 wire, from the laser itself the wire are red and blue, they later connect to other colors, we will call the blue one (-) and the red one (+).
@@ -50,7 +50,7 @@ if you have a joystick in your kit, follow theses instrcutions, else go [here][1
 
 The joystick comes with a strip of five wires, on the left side of the joystick you have 5 pins with labels on the side, connect one side of the strip to them and the other side to the board on the picture bellow:
 
-![Catbot wiring](/assets/connect/funduino03.png)
+![Catbot wiring](/assets/connect/funduino_03.png)
 
 
 - GND : ground, connect it to any pin in the blue rows ('ground' section)
@@ -62,16 +62,8 @@ The joystick comes with a strip of five wires, on the left side of the joystick 
 ## Next step
 Go to calibrate your bot [here][1]
 
-[1]:/test
-
-
-![img caption](/assets/connect//assets/build/yld/31.png)
-
 you will have some leftover bit, some plastic horn for the servo motors, and some screws.
 
 screws can be used later on, when the catbot is calibrated to keep the servo and the turret in place, to do so use a small screwdriver to screw them un the middle of the servo gear through the horn
 
-## Next step
-Wire all the things [here][1]
-
-[1]:/connect
+[1]:/catbot/test

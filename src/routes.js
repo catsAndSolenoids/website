@@ -23,6 +23,5 @@ const PageContainer = (props) => (
 export default (
   <Route component={ AppContainer }>
     <Route path="*" component={ PageContainer } />
-    <Route path="catbot/*" component={ PageContainer } />
   </Route>
 )

@@ -2,11 +2,9 @@ import React, { PropTypes } from "react"
 import { Link } from "phenomic"
 import Svg from "react-svg-inline"
 
-import twitterSvg from "../icons/iconmonstr-twitter-1.svg"
+// import twitterSvg from "../icons/iconmonstr-twitter-1.svg"
 import gitHubSvg from "../icons/iconmonstr-github-1.svg"
 // import catLogo from "../icons/iconCatsNoText.svg"
-
-
 
 import styles from "./index.css"
 
@@ -35,8 +33,8 @@ const Header = (props, { metadata: { pkg } }) => (
             href={ `https://twitter.com/${pkg.twitter}` }
             className={ styles.link }
           >
-            <Svg svg={ twitterSvg } cleanup />
-            { "Twitter" }
+            {/*<Svg svg={ twitterSvg } cleanup />
+            { "Twitter" }*/}
           </a>
         }
         {

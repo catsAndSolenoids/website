@@ -1,7 +1,7 @@
 ---
 title: Lasercat workshop
 layout: Page
-hero: /assets/nyanBg.jpg
+hero: /assets/catHero.svg
 # hero credit: https://www.flickr.com/photos/pslee999/15589950511/
 #cta:
 #  label: About this theme
