@@ -16,7 +16,7 @@ Firmata is a protocol based on midi that provide an "API" to control your MCU ha
 
 In the examples and exercices that you will find here, we will use Javascript, nodejs, and the [Johnny-Five][2] package
 
-You will need [nodejs][3] (somehow recent) to use the test tool and the workshoper 
+You will need [nodejs][3] (use 6 or 7, or the version you have if it is more than 3) to use the test tool and the workshoper, if you don't have node installed on your computer and don't know how to install it, please ask any of us, we will help you.
 
 ## Test firmata on the board
 
@@ -37,19 +37,9 @@ your board is ready to use !
 ```
 and exit.
 
-If not go [here][4] and come back
+If not (if the pack for the board is closed) go [here][4] and come back
 
-## Test and Calibration
-
-```
-npm run cal
-```
-
-Will ask you a few question and help you calibrate your catbot.  
-Once done it will write a ```~/.catbotrc``` file that will be loaded by the catbot lib, allowing you simple override of the default options.  
-if you have an analog joystick you can enable it in this file.
-
-you are now ready to play with your catbot go [here][5] 
+You are now ready to play with your catbot go [here][5] 
 
 [1]:https://github.com/firmata/protocol
 [2]:https://johnny-five.io

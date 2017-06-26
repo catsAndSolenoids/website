@@ -13,8 +13,8 @@ const Header = (props, { metadata: { pkg } }) => (
     <nav className={ styles.nav }>
       <div className={ styles.navPart1 }>
         {/*<Svg svg={ catLogo } cleanup className={ styles.catLogo } />*/}
-        <img alt="" src="../assets/yld-logo.png" className={ styles.yldLogo }/>
-        <img alt="" src="../assets/catLogo.svg" className={ styles.catLogo }/>
+        <img alt="" src="/assets/yld-logo.png" className={ styles.yldLogo }/>
+        <img alt="" src="/assets/catLogo.svg" className={ styles.catLogo }/>
         <Link
           className={ styles.link }
           to={ "/" }

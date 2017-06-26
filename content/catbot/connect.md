@@ -1,6 +1,6 @@
 ---
 title: Connect
-layout: post
+layout: Page
 hero: /assets/catHero.svg
 ---
 

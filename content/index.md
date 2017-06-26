@@ -9,7 +9,7 @@ hero: assets/catHero.svg
 #  link: "about"
 ---
 
-# Catbots workshop for SPA Conference
+# YLD at SPA Conference
 
 YLD is one of London’s fastest growing software engineering consultancies
 working with European brands such as The Economist, Trainline and Thomas Cook.
@@ -24,4 +24,23 @@ piece of work we do. We don’t stop until we get there.
 
 Join the conversation on Twitter @YLDio or hello@yld.io
 
-We are hiring! Check out available roles here: https://yld.breezy.hr/
+We are hiring! Check out available roles [here](https://yld.breezy.hr/)
+
+# Catbot workshop
+
+YLD also want to make cats less bored, and to do today we will build aa remote controlled laser turret!
+
+here are the steps to create the ultimate connected cat toy
+
+- [build the frame][1]
+- [connect the hardware][2]
+- [test it][3]
+- [you are ready for the lasercat workshop][4]
+- if you have a problem go to the [troubleshooting][5] page
+
+
+[1]:/catbot/v4/
+[2]:/catbot/connect/
+[3]:/catbot/test/
+[4]:/catbot/lasercat/
+[5]:/catbot/troubleshooting/
