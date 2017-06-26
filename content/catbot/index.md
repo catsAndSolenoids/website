@@ -25,9 +25,8 @@ It is also a cool toy to learn the basics of Ardino and connect a thing to the i
 
 There have been differnts versions of the catbots, so depending on which you had, instruction may vary a bit
 
-- V4 : current version, frame building instructions are available [here][2]
-- YLD catbot: special batch made for our friends at YLD, frame building instructions available [here][1]
-- older versions : building instructions are available [here][3]
+- V4 : current version, if you have qr code on the box this is this version, frame building instructions are available [here][2]
+- YLD catbot: first version of the YLD Catbot, frame building instructions available [here][1]
 
 # Demos !!
 
@@ -39,4 +38,3 @@ LXJS 2014 catbot workshop (shot by Joana Job)
 
 [1]: /catbot/yld
 [2]: /catbot/v4
-[3]: http://lesnodebots.eu/build.html

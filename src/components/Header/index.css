@@ -22,9 +22,17 @@
   line-height: 3rem;
 }
 
-.catLogo{
+.yldLogo{
   width:40px;
   height:40px;
+  margin-top:5px;
+}
+.catLogo{
+  width:45px;
+  height:45px;
+}
+.flr{
+  float:right;
 }
 
 
