@@ -28,15 +28,16 @@ We are hiring! Check out available roles [here](https://yld.breezy.hr/)
 
 # Catbot workshop
 
-YLD also want to make cats less bored, and to do today we will build aa remote controlled laser turret!
+YLD also like to reduce cats' boredom, and so today we will build a remote
+controlled laser turret!
 
-here are the steps to create the ultimate connected cat toy
+Here are the steps to create the ultimate connected cat toy:
 
-- [build the frame][1]
-- [connect the hardware][2]
-- [test it][3]
-- [you are ready for the lasercat workshop][4]
-- if you have a problem go to the [troubleshooting][5] page
+- [Build the frame][1]
+- [Connect the hardware][2]
+- [Test it][3]
+- [You are ready for the lasercat workshop][4]
+- If you have a problem go to the [troubleshooting][5] page
 
 
 [1]:/catbot/v4/
