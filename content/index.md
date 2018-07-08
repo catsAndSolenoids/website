@@ -1,5 +1,5 @@
 ---
-title: Catbots - YLD and Cats and solenoids
+title: Catbots workshop
 layout: Page
 hero: assets/catHero.svg
 #headTitle: yo
@@ -9,29 +9,13 @@ hero: assets/catHero.svg
 #  link: "about"
 ---
 
-# YLD at SPA Conference
-
-YLD is one of London’s fastest growing software engineering consultancies
-working with European brands such as The Economist, Trainline and Thomas Cook.
-
-We help our clients win by augmenting their teams with some of the best
-JavaScript engineers in Europe while employing cutting edge technologies and
-software engineering practises. 
-
-Our ethos is defined by a commitment to the open source community - we aim to
-create a long-standing engineering culture and delivery capability in each
-piece of work we do. We don’t stop until we get there. 
-
-Join the conversation on Twitter @YLDio or hello@yld.io
-
-We are hiring! Check out available roles [here](https://yld.breezy.hr/)
 
 # Catbot workshop
 
-YLD also like to reduce cats' boredom, and so today we will build a remote
+it is important to reduce cat's boredom, and so today we will build a remote
 controlled laser turret!
 
-Here are the steps to create the ultimate connected cat toy:
+Here are the steps to connect your cat to the internet:
 
 - [Build the frame][1]
 - [Connect the hardware][2]

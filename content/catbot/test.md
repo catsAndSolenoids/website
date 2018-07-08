@@ -12,17 +12,32 @@ hero: /assets/catHero.svg
 
 We will use the [firmata][1] protocol to talk with the microcontroller.
 
-Firmata is a protocol based on midi that provide an "API" to control your MCU hardware.
+Firmata is genric protocol that provide an "API" to control your MCU hardware.
 
 In the examples and exercices that you will find here, we will use Javascript, nodejs, and the [Johnny-Five][2] package
 
 You will need [nodejs][3] (use 6 or 7, or the version you have if it is more than 3) to use the test tool and the workshoper, if you don't have node installed on your computer and don't know how to install it, please ask any of us, we will help you.
 
-## Test firmata on the board
+## Install firmata on the board
 
-the board should be flashed with firmata but let's try anyway
+To install firmata on your  board, you can use [firmata-party][1]
+plug the arduino to your computer
 
-in a terminal and in your project directory
+```
+npm install -g firmata-party
+firmata-party uno
+```
+DONE
+
+you can also use the arduino IDE 
+
+- [Download arduino IDE][2]
+- Plug the funduino in a usb port
+- Open the funduino IDE. Ensure that you selected your funduino type (arduino uno)and port
+- Open Files > Examples > Firmata > StandardFirmata
+- Upload it (the button with an arrow in the IDE or File > Upload).
+
+then to test that the board is ready:
 
 ```
 git clone git@github.com:catsAndSolenoids/yldWorkshop.git

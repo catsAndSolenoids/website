@@ -13,7 +13,6 @@ const Header = (props, { metadata: { pkg } }) => (
     <nav className={ styles.nav }>
       <div className={ styles.navPart1 }>
         {/*<Svg svg={ catLogo } cleanup className={ styles.catLogo } />*/}
-        <img alt="" src="/assets/yld-logo.png" className={ styles.yldLogo }/>
         <img alt="" src="/assets/catLogo.svg" className={ styles.catLogo }/>
         <Link
           className={ styles.link }
@@ -23,16 +22,11 @@ const Header = (props, { metadata: { pkg } }) => (
         </Link>
         <Link
           className={ styles.link }
-          to={ "/catbot" }
+          to={ "/catbot/v4/" }
         >
           { "Catbots" }
         </Link>
-        <Link
-          className={ styles.link }
-          to={ "/contacts" }
-        >
-          { "Contacts" }
-        </Link>
+
       </div>
       <div className={ styles.navPart2 }>
         {
