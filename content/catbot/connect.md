@@ -26,8 +26,9 @@ Then check that the voltage switch (2) is set to 5V (servomotors need 5V)
 ![Catbot wiring](/assets/connect/funduino_02.png)
 
 ### laser
-the laser has 2 wire, from the laser itself the wire are red and blue, they later connect to other colors, we will call the blue one (-) and the red one (+).
-connect the blue (-) wire to the pin 13 in the ground (7) row (blue row)
+the laser has 3 pins, but the middle one does not do anything (it's cheaper to
+manufacture this way), so the outer two pins from the laser itself connect to the red
+and blue wires, they later connect to other colors, we will call the blue one (-) and the red one (+). connect the blue (-) wire to the pin 13 in the ground (7) row (blue row)
 then connect the signal wire to pin 12 in the signal (5) row (yellow one)
 
 ###  Y axis servo
