@@ -47,9 +47,9 @@ Same as Y but on D10 the row befor the X one.
 Your catbot is build and wired.
 
 ## Joystick
-if you have a joystick in your kit, follow theses instrcutions, else go [here][1]
 
-The joystick comes with a strip of five wires, on the left side of the joystick you have 5 pins with labels on the side, connect one side of the strip to them and the other side to the board on the picture bellow:
+The joystick uses five wires, on the left side of the joystick you have 5 pins 
+with labels on the side, connect one side of the strip to them and the other side to the board like in the picture bellow:
 
 ![Catbot wiring](/assets/connect/funduino_03.png)
 

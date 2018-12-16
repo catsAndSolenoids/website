@@ -12,17 +12,17 @@ hero: /assets/catHero.svg
 
 We will use the [firmata][1] protocol to talk with the microcontroller.
 
-Firmata is a protocol based on midi that provide an "API" to control your MCU hardware.
+Firmata is a protocol that provide an "API" to control your MCU hardware.
 
 In the examples and exercices that you will find here, we will use Javascript, nodejs, and the [Johnny-Five][2] package
 
 You will need [nodejs][3] (somehow recent) to use the test tool and the workshoper 
 
-## Test firmata on the board
+## Test / Install firmata on the board
 
-the board should be flashed with firmata but let's try anyway
+the board may be flashed with firmata, let's check (if the board is sealed, it isn't)
 
-in a terminal and in your project directory
+in a terminal and in your project directory (if you have any)
 
 ```
 git clone git@github.com:catsAndSolenoids/yldWorkshop.git
